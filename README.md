@@ -1,4 +1,4 @@
-When I create the file I put in the snapshot message as “Start”. ** **
+# GIT Inspired File System
 
 This program is a simple file version management system implemented in C\+\+. It allows creating, modifying, snapshotting, rolling back, and tracking multiple versions of files. Additionally, it provides system-wide analytics like listing the most recently modified files and files with the largest version trees. 
 
